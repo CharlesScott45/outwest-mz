@@ -64,7 +64,7 @@ border-bottom: 1px solid #fff;}
 }
 
 .section-header .section-title {
-  font-size: 25px;
+  font-size: 20px;
   color: #272727;
   text-transform: uppercase;
   position: relative;
@@ -240,6 +240,7 @@ ul.nostyle i {
     color: #BE1414;
     background-color: transparent;
   }
+
   
 }
 
